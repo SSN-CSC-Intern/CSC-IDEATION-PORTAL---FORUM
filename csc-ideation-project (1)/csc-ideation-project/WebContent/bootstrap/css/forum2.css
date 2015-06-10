@@ -1,0 +1,282 @@
+/* header part */
+.img-responsive
+{
+height:50px;                    /* csc image property */
+margin-top:-15px;
+}
+.border
+{
+ padding-top: 25px;
+    padding-left: 70px; 
+    height:100px;
+    width:800px;                  /*  border part property */
+    margin-top:10px;
+     
+  background-color:#8b9dc3;
+  border-bottom-left-radius:120px;
+  margin-left:120px;
+ 
+}
+.title {
+    
+    font-size:45px;
+    color:#FFFFFF;
+    font-weight:bold;
+    font-style:italic,oblique;                     /* iteation portal titel property */
+    font-family:Droid Serif;
+    letter-spacing:1.5px;
+     
+    margin-top:-18px;
+    padding-left:100px;
+    padding-right:50px;
+    padding-top:5px;
+}
+	.btn
+{
+
+	background-color:#8b9dc3;
+	margin-top:-101px;
+	font-size:17px;                
+	font-weight:bold;           /* help button property */
+	font-family:Droid Serif;
+	outline:none;
+	border:none;
+	color:#FFFFFF;
+	margin-right:20px;
+
+	}
+	.btn:hover
+	{
+	background-color:#6666cc;         /* help button hover property */  
+	}
+
+	.navbar
+{
+	background-color:#3b5998;
+	
+	font-size:18px;
+	margin-top:0px;                  /*home page main nav bar */
+	height:2px;
+	}
+.nav.navbar-nav li a
+{
+	color:#FFF;
+	font-family:Droid Serif;
+	position:relative;                   /*home page main nav bar link */
+	text-align:center;
+	font-weight:bold;
+	margin: 0 20px;
+	
+}
+.nav.navbar-nav li a:hover
+{
+	background-color:#ccccff;color:#FFF;           /*home page main nav bar link hover */
+}
+/* jumbotron full container part */
+
+ .container
+{
+position:absolute;
+left:20px;
+right:-10px;
+
+margin-top:-20px;
+width:1300px;
+height:1200px;
+margin-bottom:200px;
+
+
+
+}
+
+body{
+	background-color:#dfe3ee;
+}
+
+
+/* forum body part */
+
+.span16
+{
+	border:1px #3b5998 solid ;
+width:870px;
+height:1000px;
+background-color:white;
+
+border-top-left-radius:10px;
+border-top-right-radius:10px;
+border-bottom-left-radius:10px;
+border-bottom-right-radius:10px;
+margin-top:20px;
+margin-right:10px;
+margin-left:10px;
+
+
+
+}
+/* forum side bar */
+
+.span15 
+{
+	border:1px #3b5998 solid ;
+width:370px;
+height:1000px;
+background-color:white;
+border-top-left-radius:10px;
+border-top-right-radius:10px;
+border-bottom-left-radius:10px;
+border-bottom-right-radius:10px;
+margin-top:20px;
+margin-left:10px;
+
+}
+
+.widget {
+  
+  border:1px solid #D6D6D6;
+  height:809px;
+  
+  
+  margin-top:50px;                                      /* widget1 container part */
+  width:820px;
+  margin-left:20px;
+  
+  
+}
+
+.widget-content
+{
+	width:820px;
+	height:50px;                                     /* widget1 header part color */
+	   
+	 border-bottom: 1px solid #cbcbcb; 
+	
+	font-size:15px;
+	font-style:italic,oblique;                     
+    font-family:Droid Serif;
+    background-color:#8b9dc3;
+     text-shadow: 0 1px 0 #ffffff;
+     
+     
+    }
+    
+    
+    .link
+{
+	list-style-type: none;
+	margin-left:1px;
+	padding:12px;
+	font-size:18px;
+}
+/* general discussion link part */
+.link a
+{
+	text-decoration:none;
+	color:white;
+}
+
+/* general discussion link hover part */
+.link a:hover
+{
+background-color:#3b5998;	
+}
+
+hr
+{
+	margin-top:20px;
+	
+	}
+	
+	
+	    .link1
+{
+	list-style-type: none;
+	margin-left:10px;
+	margin-top:-63px;
+	color:red;
+	
+	
+	
+}
+	
+	
+	.link1 li a
+{
+	
+	color:#3b5998;
+	font-size:18px;
+	font-weight:bold;
+	
+}
+
+
+	
+	
+	
+	/* side bar1 link list property */ 
+.sidebar1 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+/* side bar1 link property */
+.sidebar1 li {
+    float: left;
+    
+}
+
+.sidebar1 a:link, a:visited {
+    display: block;
+    width: 122.6px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #3b5998;
+    text-align: center;
+    padding: 9px;
+    text-decoration: none;
+    text-transform: uppercase;
+    height:40px;
+    margin-top:250px;
+}
+
+ /*side bar1 link hover property  */
+.sidebar1 a:hover {
+    background-color:#8b9dc3;
+}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+

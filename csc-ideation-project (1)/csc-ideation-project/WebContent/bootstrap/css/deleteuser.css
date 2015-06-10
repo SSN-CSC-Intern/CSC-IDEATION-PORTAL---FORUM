@@ -1,0 +1,221 @@
+/* header part */
+.img-responsive
+{
+height:50px;                    /* csc image property */
+margin-top:-15px;
+}
+.border
+{
+ padding-top: 25px;
+    padding-left: 70px; 
+    height:100px;
+    width:800px;                  /*  border part property */
+    margin-top:10px;
+     
+  background-color:#cbcbcb;
+  border-bottom-left-radius:120px;
+  margin-left:120px;
+ 
+}
+.title {
+    
+    font-size:45px;
+    color:red;
+    font-weight:bold;
+    font-style:italic,oblique;                     /* iteation portal titel property */
+    font-family:Droid Serif;
+    letter-spacing:1.5px;
+   text-shadow:4px 4px 2px black;   
+    margin-top:-18px;
+    padding-left:100px;
+    padding-right:50px;
+    padding-top:5px;
+}
+	.btn
+{
+
+	background-color:#cbcbcb;
+	margin-top:-101px;
+	font-size:17px;                
+	font-weight:bold;           /* help button property */
+	font-family:Droid Serif;
+	outline:none;
+	border:none;
+	color:red;
+	margin-right:20px;
+
+	}
+	.btn:hover
+	{
+	background-color:#6666cc;         /* help button hover property */  
+	}
+
+	.navbar
+{
+	background-color:purple; 
+	font-size:23px;
+	margin-top:0px;                  /*home page main nav bar */
+	height:2px;
+	}
+.nav.navbar-nav li a
+{
+	color:#FFF;
+	font-family:Droid Serif;
+	position:relative;                   /*home page main nav bar link */
+	text-align:center;
+	font-weight:bold;
+	margin: 0 40px;
+	
+}
+.nav.navbar-nav li a:hover
+{
+	background-color:#ccccff;color:#FFF;           /*home page main nav bar link hover */
+}
+
+
+.widget1 {
+  
+  border:1px solid #D6D6D6;
+  height:760px;
+  
+  
+  margin-top:50px;                                      /* widget1 container part */
+  width:700px;
+  margin-left:340px;
+}
+
+.widget-content1
+{
+	width:700px;
+	height:40px;                                     /* widget2 header part color */
+	background-color:#cbcbcb;
+	color:red;
+	font-size:17px;
+	font-style:italic,oblique;                     
+    font-family:Droid Serif;
+    padding:5px;
+	
+}
+.form-control11
+{
+	width:300px;
+	margin-left:-10px;                          /* user name input box propert */
+	margin-top:20px;
+}
+.control-label11
+{
+	color:blue;
+	                                     /*user name label property */
+	margin-top:20px;
+    font-size:13px;
+} 
+.btn-primary6
+{
+    background: #33a6cc;
+   margin-left:280px;                      /*upload button property */
+   margin-top: 20px;
+   width:80px;
+   
+}
+
+ .form-control
+    {
+    height:30px;
+    width:300px;
+    margin-left:-10px;                    /* al input box property except date of birth */
+    padding:2px;
+    margin-top:20px;
+    
+    }
+   
+    .control-label
+    {
+    	margin-top:20px;
+    font-size:13px;                              /* al label property except date of birth */
+    color:blue;
+    }
+
+
+.form-control1
+	{
+	height:30px;
+	width:100px;
+	margin-left:-10px;
+	padding:2px ;                                               /* date */
+	margin-top:20px;
+	
+	}
+	
+	.form-control2
+	{
+	height:30px;
+	width:100px;
+	margin-left:-50px;                                               /*month */
+	margin-top:20px;
+	
+	
+	}
+	.form-control3
+	{
+	height:30px;                                                          /*year*/
+	width:100px;
+	margin-left:-90px;
+	margin-top:20px;
+	
+	
+	}
+
+
+  .control-label2
+    {
+    	margin-top:20px;                      /* date of birth label property */
+    font-size:13px;
+    color:blue;
+    }
+
+
+
+.right-inner-addon {
+    position: relative;                           /* search bar input text */
+  
+  font-family:Droid serif;
+}
+
+.right-inner-addon i {
+    position: absolute;
+    
+    left:640px;              /* glyphicon symbol property */
+    padding: 7px;
+    pointer-events: none;
+    top:20px;
+     
+}
+.form-control50
+{
+	width:250px;
+	margin-top:20px;
+	margin-left:420px;                     /* glyphicon input box property */
+	height:30px;
+	 border: 2px solid grey;
+    border-radius: 10px;
+}
+.btn-primary1
+{
+    background: #33a6cc;
+   margin-left:200px;                      /*upload button property */
+   margin-top: 40px;
+   width:80px;
+   
+}
+.btn-primary2
+{
+      background: #33a6cc;
+   margin-left:60px;                      /*upload button property */
+   margin-top: 40px;
+   width:80px;
+   
+}
+
+
+
+

@@ -1,0 +1,276 @@
+.img-responsive
+{
+height:50px;                    /* csc image property */
+margin-top:-15px;
+}
+.border
+{
+ padding-top: 25px;
+    padding-left: 70px; 
+    height:100px;
+    width:800px;                  /*  border part property */
+    margin-top:10px;
+     
+  background-color:#cbcbcb;
+  border-bottom-left-radius:120px;
+  margin-left:120px;
+ 
+}
+.title {
+    
+    font-size:45px;
+    color:red;
+    font-weight:bold;
+    font-style:italic,oblique;                     /* iteation portal titel property */
+    font-family:Droid Serif;
+    letter-spacing:1.5px;
+   text-shadow:4px 4px 2px black;   
+    margin-top:-18px;
+    padding-left:100px;
+    padding-right:50px;
+    padding-top:5px;
+}
+	.btn
+{
+
+	background-color:#cbcbcb;
+	margin-top:-101px;
+	font-size:17px;                
+	font-weight:bold;           /* help button property */
+	font-family:Droid Serif;
+	outline:none;
+	border:none;
+	color:red;
+	margin-right:20px;
+
+	}
+	.btn:hover
+	{
+	background-color:#6666cc;         /* help button hover property */  
+	}
+
+	.navbar
+{
+	background-color:purple; 
+	font-size:18px;
+	margin-top:0px;                  /*home page main nav bar */
+	height:2px;
+	}
+.nav.navbar-nav li a
+{
+	color:#FFF;
+	font-family:Droid Serif;
+	position:relative;                   /*home page main nav bar link */
+	text-align:center;
+	font-weight:bold;
+	margin: 0 40px;
+	
+}
+.nav.navbar-nav li a:hover
+{
+	background-color:#ccccff;color:#FFF;           /*home page main nav bar link hover */
+}
+.glyphicon.glyphicon-search
+{
+	font-size:22.5px;
+}
+
+.input-group
+{
+width:550px;
+
+margin:auto auto auto auto;           /*search glyphicon property */
+margin-top:40px;
+color:purple;
+}
+.form-control
+{
+	height:40px; 
+	background-color:#cbcbcb;                 /*search text box property */
+
+	font-color:purple;
+	font-weight:bold;  
+	font-size:20px;   
+	                     
+}
+
+
+.widget1 {
+  
+  border:1px solid #D6D6D6;
+  height:420px;
+  
+  
+  margin-top:50px;                                      /* widget1 container part */
+  width:540px;
+  margin-left:100px;
+}
+
+.widget-content1
+{
+	width:540px;
+	height:40px;                                     /* widget2 header part color */
+	background-color:#cbcbcb;
+	color:red;
+	font-size:23px;
+	font-style:italic,oblique;                     
+    font-family:Droid Serif;
+	
+}
+.widget2
+ {
+  
+  border:1px solid #D6D6D6;
+  height:400px;
+  
+  
+  margin-top:-420px;                                      /* widget1 container part */
+  width:540px;
+  margin-left:700px;
+}
+
+.widget-content2
+{
+	width:540px;
+	height:40px;                                     /* widget2 header part color */
+	background-color:#cbcbcb;
+	color:red;
+	font-size:17px;
+	font-style:italic,oblique;                     
+    font-family:Droid Serif;
+    padding:5px;
+	
+}
+.shortcuts .shortcut {
+  background:#F9F6F1;
+  border-radius:5px;
+  display:inline-block;                                    /*shorcuts arranging in widget box */
+ 
+  padding:20px 0;
+  text-decoration:none;
+  padding-left:5px;
+  width:20.5%;
+  height:75px;
+ 
+  pading-top:5px;
+   
+  
+  margin-top:20px;
+  margin-left:30px;
+  margin-right:30px;
+  margin-bottom:30px;
+  font-size:13px;
+	font-style:italic,oblique;                     
+    font-family:Droid Serif;
+    }
+.shortcuts .shortcut:hover
+   
+    {background-color:#55D4FF;                         /*shorcuts arranging in widget box hover */
+    }
+
+
+ a {
+  color:#19BC9C;
+  text-decoration:none;                                  /*shorcuts arranging in widget box link text*/
+}
+.glyphicon.glyphicon-user
+{
+	font-size:18px;
+	margin-left:40px;                  /* shorcut glyphicon add user symbol */
+	margin-top:-5px;
+	
+}
+.shortcut-label
+{
+	margin-left:12px;              /* shorcut glyphicon all text */
+}
+.glyphicon.glyphicon-globe
+{
+	font-size:18px;
+	margin-left:40px;                  /* shorcut modify user of glyphicon symbol */
+	margin-top:-5px;
+}
+.glyphicon.glyphicon-remove
+{
+	font-size:18px;
+	margin-left:40px;                  /*  shorcut delete user of glyphicon symbol*/
+	margin-top:-5px;
+}
+
+.glyphicon.glyphicon-heart
+{
+	font-size:18px;
+	margin-left:40px;                    /*  shorcut add layer of glyphicon symbol*/
+	margin-top:-5px;
+}
+.glyphicon.glyphicon-tint
+{
+	font-size:18px;
+	margin-left:40px;                       /*  shorcut config layer of glyphicon symbol*/            
+	margin-top:-5px;
+}
+
+.glyphicon.glyphicon-move
+{
+	font-size:18px;
+	margin-left:40px;                    /*  shorcut delete layer of glyphicon symbol*/
+	margin-top:-5px;
+}
+.glyphicon.glyphicon-check
+{
+	font-size:18px;                             /*  shorcut add level of glyphicon symbol*/
+	margin-left:40px;                 
+	margin-top:-5px;
+}
+.glyphicon.glyphicon-king
+{
+	font-size:18px;
+	margin-left:40px;                              /*  shorcut config level of glyphicon symbol*/
+	margin-top:-5px;
+}
+.glyphicon.glyphicon-knight
+{
+	font-size:18px;
+	margin-left:40px;                                  /*  shorcut delete level of glyphicon symbol*/
+	margin-top:-5px;
+}   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

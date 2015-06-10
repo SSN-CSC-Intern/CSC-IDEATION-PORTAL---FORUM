@@ -1,0 +1,172 @@
+/* header part */
+.img-responsive
+{
+height:50px;                    /* csc image property */
+margin-top:-15px;
+}
+.border
+{
+ padding-top: 25px;
+    padding-left: 70px; 
+    height:100px;
+    width:800px;                  /*  border part property */
+    margin-top:10px;
+     
+  background-color:#cbcbcb;
+  border-bottom-left-radius:120px;
+  margin-left:120px;
+ 
+}
+.title {
+    
+    font-size:45px;
+    color:red;
+    font-weight:bold;
+    font-style:italic,oblique;                     /* iteation portal titel property */
+    font-family:Droid Serif;
+    letter-spacing:1.5px;
+   text-shadow:4px 4px 2px black;   
+    margin-top:-18px;
+    padding-left:100px;
+    padding-right:50px;
+    padding-top:5px;
+}
+	.btn
+{
+
+	background-color:#cbcbcb;
+	margin-top:-101px;
+	font-size:17px;                
+	font-weight:bold;           /* help button property */
+	font-family:Droid Serif;
+	outline:none;
+	border:none;
+	color:red;
+	margin-right:20px;
+
+	}
+	.btn:hover
+	{
+	background-color:#6666cc;         /* help button hover property */  
+	}
+
+	.navbar
+{
+	background-color:purple; 
+	font-size:23px;
+	margin-top:0px;                  /*home page main nav bar */
+	height:2px;
+	}
+.nav.navbar-nav li a
+{
+	color:#FFF;
+	font-family:Droid Serif;
+	position:relative;                   /*home page main nav bar link */
+	text-align:center;
+	font-weight:bold;
+	margin: 0 40px;
+	
+}
+.nav.navbar-nav li a:hover
+{
+	background-color:#ccccff;color:#FFF;           /*home page main nav bar link hover */
+}
+
+
+.widget1 {
+  
+  border:1px solid #D6D6D6;
+  height:520px;
+  
+  
+  margin-top:50px;                                      /* widget1 container part */
+  width:700px;
+  margin-left:320px;
+}
+
+.widget-content1
+{
+	width:700px;
+	height:40px;                                     /* widget2 header part color */
+	background-color:#cbcbcb;
+	color:red;
+	font-size:17px;
+	font-style:italic,oblique;                     
+    font-family:Droid Serif;
+    padding:5px;
+	
+}
+.para
+{                                            /* widget inner letter */
+	
+	font-size:14px;
+	margin-left:20px;
+	margin-top:20px;
+	font-family:Droid serif;
+}
+.btn-primary1
+{
+    background: #33a6cc;
+   margin-left:300px;                      /*upload button property */
+   margin-top: 30px;
+   width:100px;
+   
+}
+.btn-primary2
+{
+     background: #cbcbcb;
+   margin-left:240px;                      /*upload button property */
+   margin-top: 40px;
+   width:70px;
+   
+}
+.btn-primary3
+{
+    background: #cbcbcb;
+   margin-left:60px;                      /*upload button property */
+   margin-top: 40px;
+   width:70px;
+   
+}
+.img-responsive1
+{
+height:50px;                                        /* excel image property */
+margin-top:40px;
+margin-left:310px;
+}
+.para1
+{
+	font-family:Droid Serif;
+	margin-left:260px;
+	margin-top:50px;
+	color:black;
+}
+.btn-primary4
+{
+    background: #33a6cc;
+   margin-left:45px;                      /*upload button property */
+   margin-top: 20px;
+   width:100px;
+   
+}
+.footer
+{
+	height:150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

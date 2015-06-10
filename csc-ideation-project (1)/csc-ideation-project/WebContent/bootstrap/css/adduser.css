@@ -1,0 +1,174 @@
+
+/* header part */
+.img-responsive
+{
+height:70px;                    /* csc image property */
+margin-top:-15px;
+}
+
+.title {
+    
+    font-size:70px;
+    color:red;
+    font-weight:bold;
+    font-style:italic,oblique;                     /* iteation portal titel property */
+    font-family:Droid Serif;
+    letter-spacing:1.5px;
+   text-shadow:2px 2px 2px black;   
+    margin-top:-10px;
+    padding-left:200px;
+    padding-right:40px;
+    padding-top:3px;
+    
+    
+   
+}
+
+
+.border
+{
+ padding-top: 25px;
+    padding-left: 70px; 
+    height:140px;
+    width:1200px;                  /*  border part property */
+    margin-top:10px;
+     margin-left:130px;
+  background-color:#cbcbcb;
+  border-bottom-left-radius:120px;
+  margin-left:150px;
+ 
+
+}
+	
+	.btn
+{
+
+	background-color:#cbcbcb;
+	margin-top:-140px;
+	font-size:25px;                
+	font-weight:bold;           /* help button property */
+	font-family:Droid Serif;
+	outline:none;
+	border:none;
+	color:red;
+	margin-right:20px;
+
+	}
+	.btn:hover
+	{
+	background-color:#6666cc;         /* help button hover property */  
+	}
+	
+/*.pure-button
+{
+	width:170px;
+	height:50px;
+	margin-left:950px;
+	background-color:#cbcbcb;
+	font-size:23px;
+}
+	
+	.pure-button:hover
+	{
+	background-color:#6666cc;
+	
+	} */
+	.navbar
+{
+	background-color:purple; 
+	font-size:27px;
+	margin-top:0px;                  /*home page main nav bar */
+	height:60px;
+	}
+.nav.navbar-nav li a
+{
+	color:#FFF;
+	font-family:Droid Serif;
+	margin:0 auto;
+	position:relative;                   /*home page main nav bar link */
+	text-align:center;
+	font-weight:bold;
+	margin: 0 20px;
+	
+}
+.nav.navbar-nav li a:hover
+{
+	background-color:#ccccff;color:#FFF;           /*home page main nav bar link hover */
+}
+
+
+    h1{
+        margin: 30px 0;
+        margin-top:30px;
+   
+        margin-left:550px;
+    }
+	.bs-example{
+    	margin: 40px;
+    	margin-left:200px;;
+    }
+    .form-control
+    {
+    height:50px;
+    width:650px;
+    margin-left:150px;
+    padding:10px;
+    margin-top:30px;
+    
+    }
+    .form-control:hover
+    {
+    background:#E1E1E1;
+    }
+    .control-label
+    {
+    	margin-top:30px;
+    font-size:23px;
+    }
+	.form-control1
+	{
+	height:50px;
+	width:250px;
+	margin-left:150px;
+	padding:2px 5px 4px 4px;               /* date */
+	margin-top:30px;
+	
+	}
+	.form-control1:hover
+	{
+	background:#cbcbcb;
+	}
+	.form-control2
+	{
+	height:50px;
+	width:250px;
+	margin-left:-30px;                    /*month */
+	margin-top:30px;
+	
+	
+	}
+	.form-control3
+	{
+	height:50px;                             /*year*/
+	width:250px;
+	margin-left:-220px;
+	margin-top:30px;
+	
+	
+	}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
